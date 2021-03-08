@@ -11,18 +11,20 @@ Pip install mac:`https://stackoverflow.com/questions/17271319/how-do-i-install-p
 
 Pip install windows:`https://phoenixnap.com/kb/install-pip-windows`
 
+type `python3.9` and `pip3` to make sure they are downloaded
+
 In your terminal type the following commands
 
 ```bash
-pip install -U flask
+pip3 install -U flask
 ```
 
 ```bash
-pip install -U Flask-SQLAlchemy
+pip3 install -U Flask-SQLAlchemy
 ```
 
 ```bash
-pip install -U flask-login
+pip3 install -U flask-login
 ```
 
 ## How to run the app
