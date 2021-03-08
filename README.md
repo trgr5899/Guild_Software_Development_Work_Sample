@@ -37,7 +37,7 @@ Unzip/Extract the Zip folder
 
 ### Third: 
 
-Get within the Course_Registration_Project directory in your terminal
+Enter this directory Course_Registration_Project directory in your terminal
 
 ### Fourth:
 
