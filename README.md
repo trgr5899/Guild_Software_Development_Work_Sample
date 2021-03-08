@@ -3,9 +3,13 @@ This is my work sample for the Guild Education software development internship. 
 
 ## Installation and Setup
 
-Check to make sure that you have the latest version of Python already installed
+Check to make sure that you have the latest version of Python and already installed
 
 Python download link: `https://www.python.org/downloads/`
+
+Pip install mac:`https://stackoverflow.com/questions/17271319/how-do-i-install-pip-on-macos-or-os-x`
+
+Pip install windows:`https://phoenixnap.com/kb/install-pip-windows`
 
 In your terminal type the following commands
 
