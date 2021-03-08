@@ -3,7 +3,7 @@ This is my work sample for the Guild Education software development internship. 
 
 ## Installation and Setup
 
-Check to make sure that you have a the latest version of Python already installed
+Check to make sure that you have the latest version of Python already installed
 
 In your terminal type the following commands
 
