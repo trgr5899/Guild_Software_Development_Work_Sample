@@ -14,15 +14,15 @@ Pip install windows:`https://phoenixnap.com/kb/install-pip-windows`
 In your terminal type the following commands
 
 ```bash
-pip install -r flask
+pip install -u flask
 ```
 
 ```bash
-pip install -r Flask-SQLAlchemy
+pip install -u Flask-SQLAlchemy
 ```
 
 ```bash
-pip install -r flask-login
+pip install -u flask-login
 ```
 
 ## How to run the app
