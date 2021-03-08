@@ -21,6 +21,22 @@ pip install -r flask-login
 
 ## How to run the app
 
+### First:
+
+Download the zip folder "Course_Registration_Project"
+
+### Second:
+
+Unzip/Extract the Zip folder
+
+### Third: 
+
+Get within the Course_Registration_Project directory in your terminal
+
+### Fourth:
+
+Enter this command into the terminal to run the website
+
 ```bash
 python main.py
 ```
