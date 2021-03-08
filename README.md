@@ -5,6 +5,8 @@ This is my work sample for the Guild Education software development internship. 
 
 Check to make sure that you have the latest version of Python already installed
 
+Python download link: `https://www.python.org/downloads/`
+
 In your terminal type the following commands
 
 ```bash
